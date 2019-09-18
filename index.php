@@ -8,7 +8,8 @@ echo 3;
 echo 4;
 echo 5;
 echo 6;
-
 echo 12;
 index11;
+echo 11;
+
 ?>
